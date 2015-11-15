@@ -4,7 +4,7 @@ Wrap ffmpge api by c++ and register in qml. You can use the qml type VideoItem s
 
 How to build&&run.
 
-Don't use shawdow build. Copy the all of file in dll directory into releases or debug directory.
+Don't use shawdow build. Copy all of the file in the dll directory into releases or debug directory.
 
 这是个极其简单的使用 `ffmpeg` 解码，然后使用 `QML` 绘制视频画面， `SDL` 播放音频的例子。
 
