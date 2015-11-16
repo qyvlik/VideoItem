@@ -1,4 +1,7 @@
-﻿#ifndef VIDEOPLAYER_H
+﻿//! 修改自
+//! [分享一个 Qt + FFMPEG + SDL 实现的视频播放器【申精】](http://bbs.csdn.net/topics/390386771)
+
+#ifndef VIDEOPLAYER_H
 #define VIDEOPLAYER_H
 
 #include <QThread>
